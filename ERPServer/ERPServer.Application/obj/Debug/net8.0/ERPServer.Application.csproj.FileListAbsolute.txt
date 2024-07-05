@@ -1,0 +1,15 @@
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\bin\Debug\net8.0\ERPServer.Application.deps.json
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\bin\Debug\net8.0\ERPServer.Application.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\bin\Debug\net8.0\ERPServer.Application.pdb
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\bin\Debug\net8.0\ERPServer.Domain.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\bin\Debug\net8.0\ERPServer.Domain.pdb
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.csproj.AssemblyReference.cache
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.AssemblyInfoInputs.cache
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.AssemblyInfo.cs
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServe.91329C4E.Up2Date
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\refint\ERPServer.Application.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.pdb
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ref\ERPServer.Application.dll

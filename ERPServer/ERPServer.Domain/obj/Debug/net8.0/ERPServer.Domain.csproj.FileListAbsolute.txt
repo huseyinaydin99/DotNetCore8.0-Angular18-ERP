@@ -1,0 +1,12 @@
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\bin\Debug\net8.0\ERPServer.Domain.deps.json
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\bin\Debug\net8.0\ERPServer.Domain.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\bin\Debug\net8.0\ERPServer.Domain.pdb
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.csproj.AssemblyReference.cache
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.AssemblyInfoInputs.cache
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.AssemblyInfo.cs
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\refint\ERPServer.Domain.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.pdb
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ref\ERPServer.Domain.dll
