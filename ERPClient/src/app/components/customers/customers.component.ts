@@ -4,6 +4,7 @@ import { CustomerModel } from '../../models/customer.model';
 import { HttpService } from '../../services/http.service';
 import { SwalService } from '../../services/swal.service';
 import { CustomerPipe } from '../../pipes/customer.pipe';
+import { NgForm } from '@angular/forms';
 
 @Component({
   selector: 'app-customers',
@@ -12,9 +13,13 @@ import { CustomerPipe } from '../../pipes/customer.pipe';
   templateUrl: './customers.component.html',
   styleUrl: './customers.component.css'
 })
-export class CustomersComponent  implements OnInit {
+export class CustomersComponent implements OnInit {
   customers: CustomerModel[] = [];
-  search:string = "";
+  search: string = "";
+
+  createModel: CustomerModel = new CustomerModel();
+
+  @ViewChild("createModalCloseBtn") createModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
 
   constructor(
     private http: HttpService,
@@ -26,9 +31,20 @@ export class CustomersComponent  implements OnInit {
     this.getAll();
   }
 
-  getAll(){
-    this.http.post<CustomerModel[]>("Customers/GetAll",{},(res)=> {
+  getAll() {
+    this.http.post<CustomerModel[]>("Customers/GetAll", {}, (res) => {
       this.customers = res;
     });
+  }
+
+  create(form: NgForm) {
+    if (form.valid) {
+      this.http.post<string>("Customers/Create", this.createModel, (res) => {
+        this.swal.callToast(res);
+        this.createModel = new CustomerModel();
+        this.createModalCloseBtn?.nativeElement.click();
+        this.getAll();
+      });
+    }
   }
 }
