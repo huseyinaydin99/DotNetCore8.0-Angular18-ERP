@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{38D37B00-9E40-42B3-A075-6170A7F105BD}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|c:\\users\\huseyin_aydin\\desktop\\erp\\erpserver\\erpserver.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{38D37B00-9E40-42B3-A075-6170A7F105BD}|ERPServer.WebAPI\\ERPServer.WebAPI.csproj|solutionrelative:erpserver.webapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5475ECBF-BCE9-4A03-8680-4C9105A3BC74}|ERPServer.Application\\ERPServer.Application.csproj|c:\\users\\huseyin_aydin\\desktop\\erp\\erpserver\\erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5475ECBF-BCE9-4A03-8680-4C9105A3BC74}|ERPServer.Application\\ERPServer.Application.csproj|solutionrelative:erpserver.application\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,32 +26,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "RelativeToolTip": "ERPServer.Application\\Mapping\\MappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:12:21.394Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CustomersController.cs",
-              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "RelativeDocumentMoniker": "ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "RelativeToolTip": "ERPServer.WebAPI\\Controllers\\CustomersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T15:09:34.617Z",
-              "EditorCaption": ""
             }
           ]
         }
