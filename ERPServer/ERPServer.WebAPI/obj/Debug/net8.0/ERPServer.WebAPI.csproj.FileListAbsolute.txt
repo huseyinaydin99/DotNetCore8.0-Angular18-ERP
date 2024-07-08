@@ -158,3 +158,4 @@ C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\r
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.pdb
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.genruntimeconfig.cache
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ref\ERPServer.WebAPI.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.WebAPI\obj\Debug\net8.0\ERPServer.WebAPI.sourcelink.json

@@ -13,3 +13,4 @@ C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\refint\ERPServer.Application.dll
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.pdb
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ref\ERPServer.Application.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Application\obj\Debug\net8.0\ERPServer.Application.sourcelink.json

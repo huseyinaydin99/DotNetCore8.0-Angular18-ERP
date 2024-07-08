@@ -17,3 +17,4 @@ C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Infrastructure\obj\Debug\
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Infrastructure\obj\Debug\net8.0\ERPServer.Infrastructure.pdb
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Infrastructure\obj\Debug\net8.0\ERPServer.Infrastructure.genruntimeconfig.cache
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Infrastructure\obj\Debug\net8.0\ref\ERPServer.Infrastructure.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Infrastructure\obj\Debug\net8.0\ERPServer.Infrastructure.sourcelink.json

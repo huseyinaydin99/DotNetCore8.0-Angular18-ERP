@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\huseyin_aydin\\desktop\\erp\\erpserver\\erpserver.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\options\\jwtoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\huseyin_aydin\\desktop\\erp\\erpserver\\erpserver.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\repositories\\customerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DEDF0E7-4EB0-4DE8-A4F7-A7B2B0E79320}|ERPServer.Domain\\ERPServer.Domain.csproj|c:\\users\\huseyin_aydin\\desktop\\erp\\erpserver\\erpserver.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1DEDF0E7-4EB0-4DE8-A4F7-A7B2B0E79320}|ERPServer.Domain\\ERPServer.Domain.csproj|solutionrelative:erpserver.domain\\entities\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\huseyin_aydin\\desktop\\erp\\erpserver\\erpserver.infrastructure\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\configurations\\customerconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240708140845_mg3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ERPServer.Infrastructure\\Migrations\\20240708140845_mg3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|c:\\users\\huseyin_aydin\\desktop\\erp\\erpserver\\erpserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B73182A-EA3C-435D-8F52-2044E3CF0C62}|ERPServer.Infrastructure\\ERPServer.Infrastructure.csproj|solutionrelative:erpserver.infrastructure\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,15 +50,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "JwtOptions.cs",
-              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Options\\JwtOptions.cs",
-              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Options\\JwtOptions.cs",
-              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Options\\JwtOptions.cs",
-              "RelativeToolTip": "ERPServer.Infrastructure\\Options\\JwtOptions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "DocumentIndex": 3,
+              "Title": "20240708140845_mg3.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240708140845_mg3.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Migrations\\20240708140845_mg3.cs",
+              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Migrations\\20240708140845_mg3.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Migrations\\20240708140845_mg3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-05T18:20:59.946Z",
+              "WhenOpened": "2024-07-08T14:08:45.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Repositories\\CustomerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:07:32.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Configurations\\CustomerConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:05:37.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ERPServer.Infrastructure\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:04:54.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Customer.cs",
+              "RelativeDocumentMoniker": "ERPServer.Domain\\Entities\\Customer.cs",
+              "ToolTip": "C:\\Users\\Huseyin_Aydin\\Desktop\\ERP\\ERPServer\\ERPServer.Domain\\Entities\\Customer.cs",
+              "RelativeToolTip": "ERPServer.Domain\\Entities\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAA+wAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T14:02:51.337Z",
               "EditorCaption": ""
             }
           ]

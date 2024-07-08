@@ -10,3 +10,4 @@ C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\E
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\refint\ERPServer.Domain.dll
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.pdb
 C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ref\ERPServer.Domain.dll
+C:\Users\Huseyin_Aydin\Desktop\ERP\ERPServer\ERPServer.Domain\obj\Debug\net8.0\ERPServer.Domain.sourcelink.json
