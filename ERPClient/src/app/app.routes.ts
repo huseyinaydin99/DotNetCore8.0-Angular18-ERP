@@ -11,12 +11,16 @@ export const routes: Routes = [
         component: LoginComponent
     },
     {
-        path: "layouts",
+        path: "",
         component: LayoutsComponent,
         canActivateChild: [()=> inject(AuthService).isAuthenticated()],
         children: [
             {
                 path: "",
+                component: HomeComponent
+            },
+            {
+                path: "customers",
                 component: HomeComponent
             }
         ]
