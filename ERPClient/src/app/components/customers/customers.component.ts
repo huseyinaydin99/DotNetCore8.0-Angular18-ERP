@@ -18,8 +18,10 @@ export class CustomersComponent implements OnInit {
   search: string = "";
 
   createModel: CustomerModel = new CustomerModel();
+  updateModel: CustomerModel = new CustomerModel();
 
   @ViewChild("createModalCloseBtn") createModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
+  @ViewChild("updateModalCloseBtn") updateModalCloseBtn: ElementRef<HTMLButtonElement> | undefined;
 
   constructor(
     private http: HttpService,
@@ -55,5 +57,19 @@ export class CustomersComponent implements OnInit {
         this.swal.callToast(res, "info");
       });
     })
+  }
+
+  get(model: CustomerModel) {
+    this.updateModel = { ...model };
+  }
+
+  update(form: NgForm) {
+    if (form.valid) {
+      this.http.post<string>("Customers/Update", this.updateModel, (res) => {
+        this.swal.callToast(res, "info");
+        this.updateModalCloseBtn?.nativeElement.click();
+        this.getAll();
+      });
+    }
   }
 }
