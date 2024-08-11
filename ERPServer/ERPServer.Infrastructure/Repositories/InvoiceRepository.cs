@@ -5,9 +5,9 @@ using GenericRepository;
 
 namespace ERPServer.Infrastructure.Repositories;
 
-internal sealed class OrderDetailRepository : Repository<OrderDetail, ApplicationDbContext>, IOrderDetailRepository
+internal sealed class InvoiceRepository : Repository<Invoice, ApplicationDbContext>, IInvoiceRepository
 {
-    public OrderDetailRepository(ApplicationDbContext context) : base(context)
+    public InvoiceRepository(ApplicationDbContext context) : base(context)
     {
     }
 }
