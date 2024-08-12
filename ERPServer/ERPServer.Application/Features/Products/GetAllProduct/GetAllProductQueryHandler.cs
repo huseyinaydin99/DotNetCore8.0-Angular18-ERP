@@ -7,7 +7,8 @@ using TS.Result;
 namespace ERPServer.Application.Features.Products.GetAllProduct;
 
 internal sealed class GetAllProductQueryHandler(
-    IProductRepository productRepository) : IRequestHandler<GetAllProductQuery, Result<List<GetAllProductQueryResponse>>>
+    IProductRepository productRepository,
+    IStockMovementRepository stockMovementRepository) : IRequestHandler<GetAllProductQuery, Result<List<GetAllProductQueryResponse>>>
 {
     public async Task<Result<List<GetAllProductQueryResponse>>> Handle(GetAllProductQuery request, CancellationToken cancellationToken)
     {
@@ -21,14 +22,14 @@ internal sealed class GetAllProductQueryHandler(
             Stock = 0
         }).ToList();
 
-        /*foreach (var item in response)
+        foreach (var item in response)
         {
-            decimal stock = 
+            decimal stock =
                 await stockMovementRepository.Where(p => p.ProductId == item.Id)
                 .SumAsync(s => s.NumberOfEntries - s.NumberOfOutputs);
 
             item.Stock = stock;
-        }*/
+        }
 
         return response;
     }
