@@ -10,6 +10,8 @@ import { RecipesComponent } from './components/recipes/recipes.component';
 import { RecipeDetailsComponent } from './components/recipe-details/recipe-details.component';
 import { OrdersComponent } from './components/orders/orders.component';
 import { RequirementsPlanningComponent } from './components/requirements-planning/requirements-planning.component';
+import { ProductionsComponent } from './components/productions/productions.component';
+import { InvoicesComponent } from './components/invoices/invoices.component';
 
 export const routes: Routes = [
     {
@@ -53,11 +55,14 @@ export const routes: Routes = [
             {
                 path: "orders",
                 component: OrdersComponent
-            }
-            ,
+            },
             {
                 path: "invoices/:type",
                 component: InvoicesComponent
+            },
+            {
+                path: "productions",
+                component: ProductionsComponent
             }
         ]
     }
