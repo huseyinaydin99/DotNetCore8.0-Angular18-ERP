@@ -54,6 +54,11 @@ export const routes: Routes = [
                 path: "orders",
                 component: OrdersComponent
             }
+            ,
+            {
+                path: "invoices/:type",
+                component: InvoicesComponent
+            }
         ]
     }
 ];
