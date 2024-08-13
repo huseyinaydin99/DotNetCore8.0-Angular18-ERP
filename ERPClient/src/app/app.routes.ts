@@ -2,16 +2,17 @@ import { Routes } from '@angular/router';
 import { LoginComponent } from './components/login/login.component';
 import { LayoutsComponent } from './components/layouts/layouts.component';
 import { HomeComponent } from './components/home/home.component';
-import { AuthService } from './services/auth.service';
 import { inject } from '@angular/core';
+import { AuthService } from './services/auth.service';
+import { CustomersComponent } from './components/customers/customers.component';
 import { DepotsComponent } from './components/depots/depots.component';
 import { ProductsComponent } from './components/products/products.component';
 import { RecipesComponent } from './components/recipes/recipes.component';
 import { RecipeDetailsComponent } from './components/recipe-details/recipe-details.component';
 import { OrdersComponent } from './components/orders/orders.component';
 import { RequirementsPlanningComponent } from './components/requirements-planning/requirements-planning.component';
-import { ProductionsComponent } from './components/productions/productions.component';
 import { InvoicesComponent } from './components/invoices/invoices.component';
+import { ProductionsComponent } from './components/productions/productions.component';
 
 export const routes: Routes = [
     {
@@ -34,7 +35,7 @@ export const routes: Routes = [
             },
             {
                 path: "customers",
-                component: HomeComponent
+                component: CustomersComponent
             },
             {
                 path: "depots",

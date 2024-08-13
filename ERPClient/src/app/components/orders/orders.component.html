@@ -125,7 +125,7 @@
                             <div class="col-3">
                                 <div class="form-group">
                                     <label>Toplam</label>
-                                    <br>
+                                    <br> 
                                     <label>{{(createDetail.price * createDetail.quantity) | trCurrency:'₺':
                                         true}}</label>
                                 </div>
@@ -154,7 +154,7 @@
                                         <td>{{data.product.name}}</td>
                                         <td>{{data.quantity}}</td>
                                         <td>{{data.price| trCurrency:'₺': true}}</td>
-                                        <td>{{(data.price * data.quantity) | trCurrentcy:'₺': true}}</td>
+                                        <td>{{(data.price * data.quantity) | trCurrency:'₺': true}}</td>
                                         <td>
                                             <button (click)="removeDetail($index)"
                                                 class="btn btn-outline-danger btn-sm">

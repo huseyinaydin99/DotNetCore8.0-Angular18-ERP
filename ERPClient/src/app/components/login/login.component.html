@@ -2,12 +2,12 @@
     <div class="login-box">
         <div class="card card-outline card-primary">
             <div class="card-header text-center">
-                <a class="h1"><b>HSYN</b>ERP</a>
+                <a class="h1"><b>HSYN </b>ERP</a>
             </div>
             <div class="card-body">
                 <p class="login-box-msg">Giriş Yap</p>
                 <div class="input-group mb-3">
-                    <input [(ngModel)] = "model.emailOrUserName" type="email" class="form-control" placeholder="Email">
+                    <input [(ngModel)] = "model.emailOrUserName" type="email" class="form-control" placeholder="E-posta adresi">
                     <div class="input-group-append">
                         <div class="input-group-text">
                             <span class="fas fa-envelope"></span>
@@ -15,14 +15,14 @@
                     </div>
                 </div>
                 <div class="input-group mb-3">
-                    <input [(ngModel)] = "model.password" type="password" class="form-control" placeholder="Password">
+                    <input [(ngModel)] = "model.password" type="password" class="form-control" placeholder="Şifre">
                     <div class="input-group-append">
                         <div class="input-group-text">
                             <span class="fas fa-lock"></span>
                         </div>
                     </div>
                 </div>
-                <button onclick="signIn()" class="btn btn-primary btn-block">Giriş Yap</button>
+                <button (click)="signIn()" class="btn btn-primary btn-block">Giriş Yap</button>
             </div>
         </div>
     </div>

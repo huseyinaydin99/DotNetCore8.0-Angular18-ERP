@@ -12,11 +12,12 @@ import { ActivatedRoute } from '@angular/router';
 import { SharedModule } from '../../modules/shared.module';
 import { InvoicePipe } from '../../pipes/invoice.pipe';
 import { OrderModel } from '../../models/order.model';
+import { TrCurrencyPipe } from '../../pipes/tr-currency.pipe';
 
 @Component({
   selector: 'app-invoices',
   standalone: true,
-  imports: [SharedModule, InvoicePipe],
+  imports: [SharedModule, InvoicePipe, TrCurrencyPipe],
   providers: [DatePipe],
   templateUrl: './invoices.component.html',
   styleUrl: './invoices.component.css'
