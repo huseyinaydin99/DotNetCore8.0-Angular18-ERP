@@ -1,3 +1,13 @@
+### .NET Core 8.0 ve Angular 17 ile ERP Projesi
+
+ERP (Kurumsal Kaynak Planlama) programı, bir işletmenin tüm temel iş süreçlerini tek bir entegre sistem üzerinden yönetmesine olanak tanıyan bir yazılım çözümüdür. Finans, insan kaynakları, üretim, tedarik zinciri, satış ve envanter gibi farklı işlevleri bir araya getirir. Bu sayede, işletmeler operasyonlarını daha verimli yönetir, maliyetleri azaltır ve karar alma süreçlerini hızlandırır.
+
+.NET Core 8.0 ve Angular 17 kullanarak modern web teknolojileriyle kurumsal kaynak planlama (ERP) sistemi geliştirdim. Bu proje, güçlü, ölçeklenebilir ve bakımı kolay bir uygulama olma özelliği taşımaktadır. Backend geliştirme sürecinde, yazılım geliştirme standartlarını en üst seviyede tutmak amacıyla Clean Architecture yaklaşımı benimsendi. CQRS (Command Query Responsibility Segregation) ve Repository Pattern gibi sofistike tasarım kalıpları uygulandı. Ayrıca, sonuç odaklı programlama (Result Pattern) ile daha sağlam ve yönetilebilir bir kod yapısı oluşturuldu.
+
+Projede MediatR kütüphanesi ile uygulama içi iletişim mekanizmaları, Entity Framework Core ile veri erişim işlemleri, Automapper ile nesne dönüşümleri ve SmartEnum ile daha güvenli enum kullanımları gibi modern C# kütüphaneleri etkin bir şekilde kullanıldı. Scrutor kütüphanesi ile bağımlılık enjeksiyonları kolaylıkla yapılandırıldı, böylece uygulamanın sürdürülebilirliği ve genişletilebilirliği sağlandı.
+
+Frontend tarafında, popüler Admin LTE teması kullanılarak kullanıcı dostu ve estetik arayüzler geliştirildi. Angular 17'nin reaktif programlama modeli ve gelişmiş özellikleri sayesinde dinamik ve interaktif kullanıcı deneyimleri sunuldu. Bu yaklaşım, kullanıcı memnuniyetini artırmak ve uygulamanın performansını optimize etmek amacıyla uygulandı. Projede, .NET Core 8.0, Clean Architecture, JWT, Entity Framework, MSSQL Server, SQL, CQRS, Mediator, MediatR, Angular 17, SweetAlert2 ve font-awesome gibi teknoloji ve kütüphaneler başarıyla entegre edilmiştir. Bu proje, yazılım geliştirme alanındaki güncel trendleri takip eden, yenilikçi ve teknolojik açıdan güçlü bir çözüm olarak öne çıkmaktadır.
+
 ![Ekran görüntüsü 2024-08-14 121535](https://github.com/user-attachments/assets/50647b5d-80c9-440c-bf66-e173e2f7f30a)
 ![Ekran görüntüsü 2024-08-14 122612](https://github.com/user-attachments/assets/745aa0bf-9202-4120-8f51-26207da28347)
 ![Ekran görüntüsü 2024-08-14 122819](https://github.com/user-attachments/assets/b6cb26fe-2287-4c7d-9605-aeb6bed61aeb)
